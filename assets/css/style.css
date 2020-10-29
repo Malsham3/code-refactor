@@ -86,7 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefits-lbc {                  /* combined benefit lead, brand, cost because they all share similar styling */
+.benefits-lbc { 
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -102,13 +102,17 @@ p {
     max-width: 150px;
 }
 
-.key-points img {
+.key-points {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+}
+
+.key-points img {
+    max-height: 200px;
 }
 .key-points h2 {
     margin-bottom: 20px;
