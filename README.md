@@ -17,4 +17,5 @@ Link to view the deployed website: https://malsham3.github.io/code-refactor/
 
 GitHub URL: https://github.com/Malsham3/code-refactor
 
-Screenshot: 
+Screenshot:
+![Alt Text](assets/images/code-refactor-screenshot.png)

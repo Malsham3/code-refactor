@@ -7,19 +7,19 @@
 body {
     background-color: #d9dcd6;
 }
-
+            /* Added styling to the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+            /* Services offered are inline placed */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+            /* Modified color of "seo" in Horiseon */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -45,7 +45,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+            /* paragraph's font size 16 pixels  */
 p {
     font-size: 16px;
 }
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+             /* content is organized using float  */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,13 +68,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+            /* content is also inline placed */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+                /* benefits content styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,23 +85,23 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+                /* shared styling of the benefits */
 .benefit { 
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+            /* shared styling of the benefits and their h3 tags */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+            /* shared styling of the benefits and their images */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+                /* shared styling of the services */
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -110,22 +110,23 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+            /* shared styling of the services and their images */
 .services img {
     max-height: 200px;
 }
+            /* shared styling of the services and their h2 tags */
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+                /* styling of the footer */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+                /* footer and h2 tags share the same font size */
 .footer h2 {
     font-size: 20px;
 }
