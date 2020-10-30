@@ -1,15 +1,20 @@
 # code-refactor
 
-your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out?
+In this project, the goal was to further improve accessibility.  The way to do that is to refactor existing code given by client while practicing the Scout Rule to achieve a sustainable, efficient and an easier-to-follow code. Eventually, the website becomes more accessible to those with disabilities, better positioned in search engines, and easier to follow by other web developers. The list below describes fixes done to this project.
 
+	▪	“Search Engine Optimization” link fixed in the header.
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+	▪	Broke down long lines in the p tags into multiple lines to achieve clean and organized HTML code.
 
-Installation: What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+	▪	Replaced non-semantic elements with semantic ones and adjusted CSS to follow.
 
-Usage: Provide instructions and examples for use.
+	▪	Combined classes that share the same styling into one class.
 
-Credits: If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well.
+	▪	Added necessary comments in HTML and CSS files
+    
 
-Features: 
+Link to view the deployed website: https://malsham3.github.io/code-refactor/
+
+GitHub URL: https://github.com/Malsham3/code-refactor
+
+Screenshot: 
